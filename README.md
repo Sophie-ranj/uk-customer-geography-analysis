@@ -75,7 +75,7 @@ City list cleaning steps:
 | Column | Purpose |
 | --- | --- |
 | `clean_add` | Standardized uppercase version of the address |
-| `address_lines` | Number of lines in each address |
+| `add_lines` | Number of lines in each address |
 | `city` | Extracted city name based on the UK city reference list |
 
 Addresses that could not be matched to a city were categorized as `OTHER`.
