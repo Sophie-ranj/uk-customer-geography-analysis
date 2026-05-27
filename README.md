@@ -67,7 +67,8 @@ City list cleaning steps:
 - Converted city names to uppercase
 - Used the cleaned list as a reference table for matching
 
-```
+
+```python
 
 ## Derived Columns
 
@@ -121,7 +122,7 @@ A horizontal bar chart was created to show the top 20 cities by total customer s
 
 ![Total Customer Spend by City](images/Chart.png)
 
-## Key Findings
+## What I Practiced
 
 - London has the highest customer spending among the identified UK cities.
 - The `OTHER` category is very large, showing that many customers are outside official UK cities or cannot be classified with this method.
